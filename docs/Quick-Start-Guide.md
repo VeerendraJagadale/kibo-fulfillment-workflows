@@ -1,10 +1,10 @@
 # Quick Start Guide: Setting Up jBPM for Kibo Fulfillment Workflows
 
-This Quick Start Guide will help you set up jBPM Business Central on your local system, specifically for working with the Kibo Fulfillment Workflows project. Whether you're new to jBPM or setting up for a quick demo, this guide will walk you through each step to get you up and running smoothly.
+This Quick Start Guide will help you set up jBPM Business Central on your local system, preparing it to work seamlessly with the Kibo Fulfillment Workflows project. Whether you're new to jBPM or configuring your environment for a specific task, this guide will walk you through each step to get everything running smoothly.
 
 ## Prerequisites
 
-Before you begin, make sure you have the following:
+Before you begin, ensure you have the following:
 
 - A Mac computer
 - Basic understanding of terminal commands
@@ -35,7 +35,7 @@ Before you begin, make sure you have the following:
 1. In your browser, log in using the default credentials:
     - **Username:** `wbadmin`
     - **Password:** `wbadmin`
-2. After logging in, you’ll have access to the jBPM Business Central dashboard, where you can start working with your projects.
+2. After logging in, you’ll have access to the jBPM Business Central dashboard, where you can start managing your projects.
 
 ## Step 4: Clone the Kibo Fulfillment Workflows Project
 
@@ -45,7 +45,7 @@ Before you begin, make sure you have the following:
     ```bash
     git clone https://github.com/KiboSoftware/kibo-fulfillment-workflows.git
     ```
-4. The project will be downloaded to your local machine, setting the stage for importing it into jBPM Business Central.
+4. The project will be downloaded to your local machine, ready for use within jBPM Business Central.
 
 ## Step 5: Import the Kibo Fulfillment Workflows Project into Business Central
 
@@ -64,9 +64,9 @@ Before you begin, make sure you have the following:
 6. Select the project that appears to confirm the import.
 7. Click **Ok** to complete the process.
 
-## Step 6: Review and Work with Kibo Fulfillment Workflows Assets
+## Step 6: Explore the Kibo Fulfillment Workflows Project
 
-With the project successfully imported, navigate through the Kibo Fulfillment Workflows project. You can now review, modify, and manage business assets such as processes, forms, rules, decision tables, and more, directly within jBPM Business Central.
+With the project successfully imported, you can now explore the Kibo Fulfillment Workflows project. This includes reviewing, modifying, and managing business assets such as processes, forms, rules, decision tables, and more directly within jBPM Business Central.
 
 ## Troubleshooting
 
@@ -78,4 +78,4 @@ If you encounter any issues during setup, consider the following tips:
 
 ---
 
-You’re now set up and ready to explore the Kibo Fulfillment Workflows in jBPM Business Central. Dive in, start automating, and enjoy working with this powerful business automation toolkit!
+You’re now set up and ready to explore and work with the Kibo Fulfillment Workflows in jBPM Business Central. Dive in, start automating, and make the most of this powerful business automation toolkit!
