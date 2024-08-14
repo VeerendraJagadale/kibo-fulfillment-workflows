@@ -64,7 +64,7 @@ Before you begin, make sure you have the following:
 6. Select the project that appears to confirm the import.
 7. Click **Ok** to complete the process.
 
-## Step 6: Review and Work with the Kibo Fulfillment Workflows
+## Step 6: Review and Work with Kibo Fulfillment Workflows Assets
 
 With the project successfully imported, navigate through the Kibo Fulfillment Workflows project. You can now review, modify, and manage business assets such as processes, forms, rules, decision tables, and more, directly within jBPM Business Central.
 
