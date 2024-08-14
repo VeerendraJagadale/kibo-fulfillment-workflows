@@ -78,4 +78,4 @@ If you encounter any issues during setup, consider the following tips:
 
 ---
 
-You’re now set up and ready to explore and work with the Kibo Fulfillment Workflows in jBPM Business Central. Dive in, start automating, and make the most of this powerful business automation toolkit!
+You’re now set up and ready to explore and work with Kibo Fulfillment Workflows in jBPM Business Central. Dive in, start automating, and make the most of this powerful business automation toolkit!
