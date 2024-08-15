@@ -47,7 +47,29 @@ Before you begin, ensure you have the following:
     ```
 4. The project will be downloaded to your local machine, ready for use within jBPM Business Central.
 
-## Step 5: Import the Kibo Fulfillment Workflows Project into Business Central
+## Step 5: Create a Master Branch
+
+1. After cloning the repository, create a new branch named `master` from the default `develop` branch:
+    ```bash
+    git checkout -b master
+    ```
+   You should see a confirmation that you've switched to the new `master` branch:
+    ```
+    Switched to a new branch 'master'
+    ```
+2. To verify the branch creation, run:
+    ```bash
+    git branch
+    ```
+   This will display the list of branches, with `master` being the active one:
+    ```
+      develop
+    * master
+    ```
+
+   **NOTE:** The above steps assume no `master` branch exists within your cloned repository. The name `master` is used to align with the default branch name used by the development jBPM instance.
+
+## Step 6: Import the Kibo Fulfillment Workflows Project into Business Central
 
 1. In the jBPM Business Central dashboard, navigate to **Menu > Design > Projects**.
 2. Click on the **Add Project** button located on the right side of the screen.
@@ -64,9 +86,9 @@ Before you begin, ensure you have the following:
 6. Select the project that appears to confirm the import.
 7. Click **Ok** to complete the process.
 
-## Step 6: Explore the Kibo Fulfillment Workflows Project
+## Step 7: Explore the Kibo Fulfillment Workflows Project
 
-With the project successfully imported, you can now explore the Kibo Fulfillment Workflows project. This includes reviewing, modifying, and managing business assets such as processes, forms, rules, decision tables, and more directly within jBPM Business Central.
+With the project successfully imported, you can now explore the Kibo Fulfillment Workflows project. This includes reviewing, modifying, and managing project assets such as processes, forms, rules, decision tables, and more directly within jBPM Business Central.
 
 ## Troubleshooting
 
@@ -78,4 +100,4 @@ If you encounter any issues during setup, consider the following tips:
 
 ---
 
-You’re now set up and ready to explore and work with Kibo Fulfillment Workflows in jBPM Business Central. Dive in, start automating, and make the most of this powerful business automation toolkit!
+You’re now set up and ready to explore and work with the Kibo Fulfillment Workflows project in jBPM Business Central. Dive in, start automating, and make the most of this powerful business automation toolkit!
