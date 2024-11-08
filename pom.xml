@@ -3,10 +3,10 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>KUPT</groupId>
-  <artifactId>KUPT.Kibo_BPM_Test</artifactId>
+  <artifactId>KUPT.BPMN_VEERU</artifactId>
   <version>1.2444.0-SNAPSHOT</version>
   <packaging>kjar</packaging>
-  <name>KUPT.Kibo_BPM_Test</name>
+  <name>KUPT.BPMN_VEERU</name>
   <description></description>
 
   <organization>
